@@ -1,1 +1,0 @@
-# hertz_client_demo
